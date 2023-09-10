@@ -7,7 +7,7 @@ body, ul, li, h1, h2, a{
     font-size: 18px;
   }
   header{
-    background-color: #F63232;
+    background-color: red;
     padding: 20px 0;
     text-align: center;
     position: fixed;
